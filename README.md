@@ -82,4 +82,4 @@ The dashboard helps analyze:
 Aspiring Data Analyst | Power BI | SQL | Excel
 
 - GitHub: [Abhaybh-Analytics](https://github.com/Abhaybh-Analytics)
-- LinkedIn: [Abhay B H](https://www.linkedin.com/in/your-linkedin-profile/)
+- LinkedIn: [Abhay B H](https://www.linkedin.com/in/abhay-b-h)
