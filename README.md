@@ -45,7 +45,7 @@ The dashboard helps analyze:
 
 | Sales Overview | Orders Overview |
 |----------------|-----------------|
-| ![](01-Sales-Overview.png) | ![](02-Orders-Overview.png) |
+| ![](01-Sales-Analysis.png) | ![](02-Orders-Overview.png) |
 
 | Returns Analysis | Customer Insights |
 |------------------|-------------------|
