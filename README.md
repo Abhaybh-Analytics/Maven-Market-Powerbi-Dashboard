@@ -79,13 +79,7 @@ The dashboard helps analyze:
 
 **Abhay B H**
 
-Aspiring Data Analyst
+Aspiring Data Analyst | Power BI | SQL | Excel
 
-### Skills
-
-- Power BI
-- SQL
-- Microsoft Excel
-- DAX
-- Power Query
-- Data Visualization
+- GitHub: [Abhaybh-Analytics](https://github.com/Abhaybh-Analytics)
+- LinkedIn: [Abhay B H](https://www.linkedin.com/in/your-linkedin-profile/)
